@@ -1,0 +1,44 @@
+$(".resume-name-text").remove();
+$(".dropdown-switcher link js-link").remove();
+$(".resume-more-option-wrap").remove();
+$(".resume-name-edit-wrap").remove();
+$(".resume-headers").remove();
+$(".link").remove();
+$(".sidebar").remove();
+$(".navbar").remove();
+$(".footer-top").remove();
+$(".footer").remove();
+$(".finalize-footer").remove();
+$(".page-wrap:after").css("display", "none");
+$(".right-box ").css("paddingLeft", "65px");
+$(".right-box ").css("paddingRight", "62px");
+$(".left-box ").css("paddingLeft", "65px");
+$(".left-box ").css("paddingRight", "65px");
+$(".singlecolumn ").css("font-size", "16px");
+$(".maincolumn ").css("font-size", "15px");
+$(".name").css("font-size", "48px");
+$(".name").css("padding-bottom", "18px");
+$(".sectiontitle").css("padding-bottom", "8px");
+$(".zipsuffix pb5").css("padding-bottom", "80px");
+$(".zipsuffix pb5").css("line-height", "19px");
+$(".zipprefix pb5").css("padding-bottom", "80px");
+$(".zipprefix pb5").css("line-height", "19px");
+$(".right-box").css("width", "145px");
+$(".left-box").css("width", "200px");
+$(".sectiontitle ").css("font-size", "22px");
+
+$("#CONTAINER_0").css("width", "518px")
+$("#CONTAINER_1").css("width", "229");
+$("#CONTAINER_1").css("padding-left", "37");
+$("#CONTAINER_1").css("padding-right", "37");
+
+$(".body-resume").css("margin-left", "-40px")
+$("p").css("line-height", "1.6")
+
+$("ul li").css("line-height", "1.6")
+
+paragraph PARAGRAPH_ACCM firstparagraph  
+
+paragraph PARAGRAPH_SUMM firstparagraph  
+
+doc-overlay section-overlay
